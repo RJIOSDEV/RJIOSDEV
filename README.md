@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @RJIOSDEV
-- 👀 I’m interested in to learn technology..
-- 🌱 I’m currently learning ios 
-- 💞️ I’m looking to collaborate on devloping apps
-- 📫 reach me by mail...... 
+# 👋 Hi, I'm Rajan Desai — iOS Engineer
 
-<!---
-RJIOSDEV/RJIOSDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I build fast, beautiful, and scalable iOS apps using Swift, SwiftUI, and modern Apple frameworks.
+
+## 🛠 Tech Stack
+- Swift, SwiftUI, UIKit, Combine, CoreData, Firebase
+- Xcode, Git, Fastlane, GitHub Actions, REST APIs, CoreML
+
+## 📱 Featured Projects
+- [Lenstracker](https://github.com/RJIOSDEV/Lenstracker) – Tracking mobile application built with SwiftUI. Fully functional Firebase integration and real-time notifications.
+- [NewsApp](https://github.com/RJIOSDEV/NewsApp) – Authentic real-time news application. Highly scalable and robust architecture.
+
+## 📈 Experience
+- iOS Engineer @ Vebbuilders
+- Open-source contributor
+- WWDC Scholarship Winner (if applicable)
+
+## 🌐 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/rajan-desai-ios)
