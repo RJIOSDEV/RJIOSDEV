@@ -13,7 +13,6 @@
 ## 📈 Experience
 - iOS Engineer @ Vebbuilders
 - Open-source contributor
-- WWDC Scholarship Winner (if applicable)
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/rajan-desai-ios)
